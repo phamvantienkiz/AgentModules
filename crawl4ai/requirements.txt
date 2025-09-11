@@ -1,0 +1,4 @@
+crawl4ai
+python-docx
+reportlab
+openpyxl

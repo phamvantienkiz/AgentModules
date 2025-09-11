@@ -4,6 +4,7 @@ This repository contains experimental modules for building Agents. The modules a
 
 ## Structure
 
+- `crawl4ai`: Crawl tool.
 - `parent_folder/multi_tool_agent`: Local RAG (Retrieval-Augmented Generation) experiments.
 - `unstract_pdf`: Tools for extracting unstructured data from PDF files.
 
